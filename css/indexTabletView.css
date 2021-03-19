@@ -1,0 +1,15 @@
+
+.main__section-services_box-container {
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.main__section-services__box {
+    width: 40%;
+    min-width: 300px;
+    max-width: 500px;
+}
+.main__lista-planes , .main__section-bitcoin__tables{
+    overflow-x: hidden;
+    justify-content: center;
+}

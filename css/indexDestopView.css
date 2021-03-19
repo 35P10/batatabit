@@ -1,0 +1,22 @@
+.main__section-conocelo-ya {
+    background-image: url("../assets/img/bitcoinbaby2x.png");
+}
+
+.main__section-services_box-container {
+    margin: 0 auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+}
+
+.main__section-services__box {
+    width:20%;
+    min-width: 200px;
+    margin: 0 0;
+}
+
+.main__lista-planes{
+    overflow-x: hidden;
+    justify-content: center;
+}
